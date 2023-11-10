@@ -1,0 +1,4 @@
+﻿  gospodi 1.2.cpp
+C:\Users\Пользователь\Desktop\laba3\gospodi 1.2\gospodi 1.2\gospodi 1.2.cpp(14,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Пользователь\Desktop\laba3\gospodi 1.2\gospodi 1.2\gospodi 1.2.cpp(17,37): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  gospodi 1.2.vcxproj -> C:\Users\Пользователь\Desktop\laba3\gospodi 1.2\x64\Debug\gospodi 1.2.exe
